@@ -65,7 +65,7 @@ def break_dance
   end
   sleep(0.5)
   if steps ==6
-   puts break
+    break
   end 
 end 
 end
