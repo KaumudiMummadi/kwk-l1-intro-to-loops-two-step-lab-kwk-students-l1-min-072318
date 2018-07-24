@@ -39,7 +39,15 @@ a_few_more_steps
 
 def how_many_steps?
   steps =0
-  while steps <= 30
+  loop do 
+  steps += 1
+  puts steps
+  if steps % 2 ==0 
+    puts "left"
+  else 
+    puts "right"
+end 
+
   
 end
 
