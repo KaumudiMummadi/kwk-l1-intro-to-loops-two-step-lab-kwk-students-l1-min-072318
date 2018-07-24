@@ -1,5 +1,7 @@
 def first_steps
   loop do 
+    puts "Turn"
+    sleep (0.5)
     puts "Right foot back"
     sleep(0.5)
     puts "Left foot back"
