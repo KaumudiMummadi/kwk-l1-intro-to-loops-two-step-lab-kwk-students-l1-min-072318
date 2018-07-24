@@ -37,21 +37,21 @@ end
 
 a_few_more_steps
 
-def how_many_steps?
-  steps =0
-  loop do 
-  steps += 1
-  puts steps
-  if steps % 2 ==0 
-    puts "left"
-  else 
-    puts "right"
-end 
-  sleep (0.5)
-end
-end
+# # def how_many_steps?
+#   # steps =0
+#   loop do 
+#   steps += 1
+#   puts steps
+#   if steps % 2 ==0 
+#     puts "left"
+#   else 
+#     puts "right"
+# end 
+#   sleep (0.5)
+# end
+# end
 
-how_many_steps
+# how_many_steps
 
 def break_dance
   steps=0
