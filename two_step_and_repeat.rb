@@ -49,7 +49,7 @@ a_few_more_steps
 end 
   sleep (0.5)
 end
-end
+
 
 how_many_steps
 
