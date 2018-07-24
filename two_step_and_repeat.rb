@@ -1,6 +1,12 @@
 def first_steps
-  steps =0
-  while steps 
+  puts "Right foot back"
+  sleep(0.5)
+  puts "Left foot back"
+  sleep(0.5)
+  puts "Right food back"
+  sleep (0.5)
+  puts "Stop"
+  sleep (1)
 end
 
 def a_few_more_steps
