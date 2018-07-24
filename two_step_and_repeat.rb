@@ -54,12 +54,5 @@ end
 how_many_steps
 
 def break_dance
-  loop do 
-  steps += 1
-  puts steps
-  if steps % 2 ==0 
-    puts "left"
-  else 
-    puts "right"
-end 
+  
 end
