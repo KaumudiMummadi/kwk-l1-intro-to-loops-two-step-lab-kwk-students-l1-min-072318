@@ -17,6 +17,8 @@ first_steps
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
   loop do 
+    puts "Turn"
+    sleep(0.5)
     puts "Right foot back"
     sleep(0.5)
     puts "Left foot back"
