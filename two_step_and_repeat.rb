@@ -1,6 +1,6 @@
 def first_steps
   steps =0
-  
+  while steps 
 end
 
 def a_few_more_steps
