@@ -7,7 +7,7 @@ puts "Left foot back"
 puts "Right foot back"
   sleep(0.5)
 puts "Stop"
-sleep(1)
+  sleep(1)
 break
   end
 end 
