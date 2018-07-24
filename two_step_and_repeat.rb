@@ -28,8 +28,7 @@ def a_few_more_steps
     puts "Right foot steps right"
     puts "Stop"
     sleep(1)
-    
-    
+  
     break
 end
 
